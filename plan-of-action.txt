@@ -1,0 +1,5 @@
+1. Finish BibleTracker (web version) – Learn React, Firebase, good UI/UX.
+
+2. Build a companion .NET API – Learn C#, REST, Entity Framework, ASP.NET Core.
+
+3. (Optional) Build a .NET Desktop Version – Use WinForms or WPF.
